@@ -1,0 +1,4 @@
+Распоковать node_modules.zip
+test-react-app загрузить на сервер
+перейти в папку test-react-app (cd test-react-app)
+запустить команду npm start
