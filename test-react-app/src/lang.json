@@ -1,0 +1,10 @@
+{
+  "ru":{
+    "titlePanelListDocuments": "Список документов",
+    "titlePanelListDocument": "Документ",
+    "back": "Назад",
+    "docDate": "Дата документа",
+    "docName": "Наименование документа",
+    "docDesc": "Описание документа"
+  }
+}
