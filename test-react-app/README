@@ -1,4 +1,4 @@
-Распоковать node_modules.7zip
+Распоковать node_modules.7z
 test-react-app загрузить на сервер
 перейти в папку test-react-app (cd test-react-app)
 запустить команду npm start
